@@ -7,7 +7,7 @@ package hii;
 
 /**
  *
- date 23 january 2020
+ Today's Date 23 january 2020
  * @author veerj
  */
 public class Hii {
